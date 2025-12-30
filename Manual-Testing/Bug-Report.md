@@ -1,14 +1,18 @@
 Bug ID: BUG_01
 Module: Login
+Title: Login button enabled with empty fields
 
-Description:
-Login button is enabled even when fields are empty
+Steps to Reproduce:
+1. Open Login page
+2. Leave email and password fields empty
+3. Observe Login button state
 
-Expected:
-Login button should be disabled
+Expected Result:
+Login button should remain disabled
 
-Actual:
+Actual Result:
 Login button is enabled
 
 Severity: Medium
+Priority: High
 Status: Open
