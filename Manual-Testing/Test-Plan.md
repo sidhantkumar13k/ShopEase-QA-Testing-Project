@@ -1,24 +1,43 @@
 # Test Plan – ShopEase E-Commerce Application
 
-Objective:
-To validate the core functionality of an e-commerce application.
+## Objective
+To ensure that the core functionalities of the e-commerce application work as per business requirements and provide a defect-free user experience.
 
-Scope:
-- User Registration
-- Login / Logout
-- Product Search
-- Add to Cart
-- Checkout
+## Scope
+### In Scope:
+- Registration & Login
+- Product Search & Listing
+- Cart Operations
+- Checkout Flow
+- Contact Us
+- API Responses
 
-Testing Types:
-- Functional Testing
-- Smoke Testing
-- Regression Testing
+### Out of Scope:
+- Payment Gateway Integration
+- Performance & Load Testing
 
-Environment:
+## Test Strategy
+- Smoke testing on every build
+- Functional testing for all modules
+- Regression testing after fixes
+- API testing for backend validation
+
+## Test Environment
 Browser: Chrome
 OS: Windows
-URL: https://automationexercise.com
+Application URL: https://automationexercise.com
 
-Tools:
-Manual Testing, Postman, Selenium, TestNG
+## Entry Criteria
+- Application available for testing
+- Test data prepared
+
+## Exit Criteria
+- All high-priority test cases executed
+- No critical defects open
+
+## Risks
+- Test environment instability
+- Test data dependency
+
+## Tools
+Manual Testing, Postman, Selenium, Jira (sample)
