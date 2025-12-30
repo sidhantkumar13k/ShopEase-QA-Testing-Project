@@ -1,24 +1,50 @@
-# ShopEase QA Testing Project
+# ShopEase – End-to-End QA Testing Project
 
-This is a real-world QA testing project created for fresher job applications.
+## Overview
+This project represents real-life Quality Assurance activities performed on a live E-Commerce web application. The project demonstrates manual testing, API testing, defect reporting, and basic automation readiness as expected from an entry-level QA Engineer.
 
 Application Tested:
 https://automationexercise.com
 
-Testing Performed:
-- Manual Testing
-- API Testing
-- Functional & Regression Testing
+## Role & Responsibility
+- Analyzed business requirements and application flow
+- Designed detailed test scenarios and test cases
+- Performed functional, regression, and UI testing
+- Identified and reported defects with severity & priority
+- Validated REST APIs using Postman
+- Prepared automation framework structure
 
-Artifacts Included:
+## Modules Tested
+- User Registration
+- Login / Logout
+- Product Listing
+- Product Search
+- Cart Management
+- Checkout Flow
+- Contact Us
+- API Validation
+
+## Types of Testing Performed
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- UI Testing
+- API Testing
+
+## Tools & Technologies
+- Manual Testing
+- Postman
+- Selenium WebDriver (Java)
+- TestNG
+- Maven
+- GitHub
+
+## Project Artifacts
 - Test Plan
 - Test Scenarios
 - Test Cases
 - Bug Reports
 - API Test Cases
 
-Tools Used:
-Manual Testing, Postman, Selenium, Java
-
-Role:
-QA Tester (Fresher)
+## QA Role
+QA Tester (Fresher / Entry-Level)
